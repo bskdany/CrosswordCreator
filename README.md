@@ -7,5 +7,8 @@ You can setup the words you need in the config.py file
 as well as the size of the crossword and how many of them
 do you want.<br />
 This program is pretty heavy, sometimes you'll need a lot 
-of time to create a single crossword.
+of time to create a single crossword.<br />
+I already have some ideas for speed improvement like a cache for temp_crosswords depending on the words premutation.<br />
+
+
 
