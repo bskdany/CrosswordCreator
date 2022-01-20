@@ -1,14 +1,6 @@
 # crossword-creator
-a python script that places given words in a crossword
+A program that places given words in a crossword.
+Initially developed in Python and then integrated on a website with Brython.<br />
+This was meant as a school project.<br />
 
-How to use:<br />
-You need to have python and an editor like vscode to run it.<br />
-You can setup the words you need in the config.py file
-as well as the size of the crossword and how many of them
-do you want.<br />
-This program is pretty heavy, sometimes you'll need a lot 
-of time to create a single crossword.<br />
-I already have some ideas for speed improvement like a cache for temp_crosswords depending on the words premutation.<br />
-
-
-
+The website is online and pubblically avaiable at https://crosswordcreat0r.000webhostapp.com/<br />
